@@ -1,5 +1,4 @@
-#
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWF6eGptaDU4cTF6bzZqZGo5aHpkcnYxOGQxeGg1OTc5eGdqcHNzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gLZ32bMP5pY52PBsm/giphy.gif)
+#![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWF6eGptaDU4cTF6bzZqZGo5aHpkcnYxOGQxeGg1OTc5eGdqcHNzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gLZ32bMP5pY52PBsm/giphy.gif)
 
 # 💫 About Me:
 🤝 Open to collaborate on:<br>UI/UX and frontend projects.<br><br>🌱 Learning:<br>Design systems & motion UI.<br><br>💬 Ask me about:<br>Frontend dev & user experience.<br><br>⚡ Fun fact:<br>Good design is felt, not just seen!
